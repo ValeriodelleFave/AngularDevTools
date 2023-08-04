@@ -1,0 +1,19 @@
+{
+  "name": "angular-dev-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValeriodelleFave/DevTools.git"
+  },
+  "author": "Valerio delle Fave",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ValeriodelleFave/DevTools/issues"
+  },
+  "homepage": "https://github.com/ValeriodelleFave/DevTools#readme"
+}
